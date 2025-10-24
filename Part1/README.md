@@ -38,10 +38,10 @@ heap: *i</br>
 text: c</br></br>
 
 <img width="1901" height="124" alt="image" src="https://github.com/user-attachments/assets/71e409d1-aad2-4a32-9206-7f78b8faeeca" />
-a được cấp phát trong và lưu trữ trong stack, b trong stack trỏ vào "bar" trong vùng nhớ readonly
+a được cấp phát trong và lưu trữ trong stack, b trong stack trỏ vào "bar" trong vùng nhớ readonly</br></br>
 
 <img width="1986" height="292" alt="image" src="https://github.com/user-attachments/assets/89d74f4a-fbc5-4f4f-887c-d1f7c171e31c" />
-Có vấn đề. Hàm liên tục gọi malloc cấp phát cho p mà không free -> sau khi chạy for thì cấp phát đến 8000 byte -> out of memory
+Có vấn đề. Hàm liên tục gọi malloc cấp phát cho p mà không free -> sau khi chạy for thì cấp phát đến 8000 byte -> out of memory</br></br>
 
 
 
