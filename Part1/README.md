@@ -5,7 +5,7 @@ kết quả tương tự như if (1)
 
 <img width="1817" height="144" alt="image" src="https://github.com/user-attachments/assets/4fc1924f-3c8f-4c3a-b206-5a0ed0e33779" />
 
-Chương trình lặp vô tận in ra kết quả từ 0 - 255 sau đó lại quay trở về 0 bởi c có giá trị là 8 bit unsigned -> khi đạt max c là 255 (0xF) tăng thêm 1, c sẽ trở lại thành 0 -> c luôn < 999
+Chương trình lặp vô tận in ra kết quả từ 0 - 255 sau đó lại quay trở về 0 bởi c có giá trị là 8 bit unsigned -> khi đạt max c là 255 (0xFF) tăng thêm 1, c sẽ trở lại thành 0 -> c luôn < 999
 
 <img width="1817" height="144" alt="image" src="https://github.com/user-attachments/assets/57f2118a-ec93-484c-a644-98a4c87c0205" />
 
