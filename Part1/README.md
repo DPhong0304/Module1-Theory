@@ -42,6 +42,22 @@ a được cấp phát trong và lưu trữ trong stack, b trong stack trỏ và
 
 <img width="1986" height="292" alt="image" src="https://github.com/user-attachments/assets/89d74f4a-fbc5-4f4f-887c-d1f7c171e31c" />
 Có vấn đề. Hàm liên tục gọi malloc cấp phát cho p mà không free -> sau khi chạy for thì cấp phát đến 8000 byte -> out of memory</br></br>
+<img width="2246" height="994" alt="image" src="https://github.com/user-attachments/assets/1a4f8006-a4c2-4e0c-b880-caa2a2cdd385" />
+<img width="2241" height="994" alt="image" src="https://github.com/user-attachments/assets/5632ab59-7706-47a6-b1ba-39ddf34ea4d9" />
+<img width="2197" height="241" alt="image" src="https://github.com/user-attachments/assets/358fd4b6-41c1-4b83-8b2f-9b485f444597" />
+
+# Storage Class
+
+<img width="2258" height="539" alt="image" src="https://github.com/user-attachments/assets/7c97b5db-58bb-45e4-9e81-7071eceef9a7" />
+<img width="2258" height="981" alt="image" src="https://github.com/user-attachments/assets/0f8f99c2-5743-4c95-b5ee-710b35b89b43" />
+
+# Data Types
+
+<img width="2258" height="860" alt="image" src="https://github.com/user-attachments/assets/81dd8289-118f-4f19-b74b-478ebf3870f1" />
+<img width="2258" height="859" alt="image" src="https://github.com/user-attachments/assets/47a6384c-201a-4d4a-acda-8feba146e453" />
+<img width="2258" height="710" alt="image" src="https://github.com/user-attachments/assets/733ffd42-0827-406b-9843-23d8602f871f" />
+<img width="2258" height="770" alt="image" src="https://github.com/user-attachments/assets/2baf71df-d15d-410d-b2cc-8ebd6d125baf" />
+
 
 
 
