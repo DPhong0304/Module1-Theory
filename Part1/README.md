@@ -49,10 +49,10 @@ Có vấn đề. Hàm liên tục gọi malloc cấp phát cho p mà không free
 # Storage Class
 
 <img width="2258" height="539" alt="image" src="https://github.com/user-attachments/assets/7c97b5db-58bb-45e4-9e81-7071eceef9a7" />
-<img width="2258" height="981" alt="image" src="https://github.com/user-attachments/assets/0f8f99c2-5743-4c95-b5ee-710b35b89b43" />
 
 # Data Types
 
+<img width="2258" height="981" alt="image" src="https://github.com/user-attachments/assets/0f8f99c2-5743-4c95-b5ee-710b35b89b43" />
 <img width="2258" height="860" alt="image" src="https://github.com/user-attachments/assets/81dd8289-118f-4f19-b74b-478ebf3870f1" />
 <img width="2258" height="859" alt="image" src="https://github.com/user-attachments/assets/47a6384c-201a-4d4a-acda-8feba146e453" />
 <img width="2258" height="710" alt="image" src="https://github.com/user-attachments/assets/733ffd42-0827-406b-9843-23d8602f871f" />
